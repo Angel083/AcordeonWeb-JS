@@ -1,0 +1,19 @@
+.acordeon{
+  background-color: aqua;
+  max-width: 120em;
+  width: 90%;
+  padding: 2em;
+}
+.acordeon .bloque{
+  background-color: red;
+  margin: 0 0 1em;
+  padding: 1em;
+}
+.acordeon .h2{
+  background-color: greenyellow;
+  margin: 0 0 1em;
+}
+.acordeon .contenido{
+  background-color: plum	;
+  padding: 1em;
+}
